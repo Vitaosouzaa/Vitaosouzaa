@@ -3,6 +3,10 @@
 <h3 align="center">🎯 Sempre em busca de novos desafios e aprendizados</h3>
 <h3 align="center">🎓 Desenvolvedor em constante evolução </h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
 <div>
 
 <p align="center">
