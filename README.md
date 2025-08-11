@@ -39,6 +39,6 @@
   <a href="https://instagram.com/vitaosouzaa2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vitoosouzaa123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-caruso-de-souza-64629b367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  - 🌐 Portfólio: <a href="https://vitaosouzaa.github.io/" target="_blank"></a>
+  - 🌐 Portfólio: <a href="https://vitaosouzaa.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%2300C4B5?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank"></a>
 </div>
 
