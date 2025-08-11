@@ -6,16 +6,24 @@ https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-
 
 
 <div>
-<a href="https://github.com/Vitaosouzaa">
+### 📈 Minhas estatísticas
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitaosouzaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaosouzaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<!-- GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vitaosouzaa&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vitaosouzaa&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
