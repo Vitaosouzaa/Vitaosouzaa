@@ -4,8 +4,9 @@
 <h3 align="center">🎓 Desenvolvedor em constante evolução </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Vitor!;Desenvolvedor+Fullstack;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
+
 <div>
 
 <p align="center">
