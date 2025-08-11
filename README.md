@@ -2,6 +2,8 @@
 <h3 align="center">💻 Desenvolvedor apaixonado por tecnologia e inovação</h3>
 
 
+https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-snake.svg
+
 
 <div>
    <a href="https://github.com/Vitaosouzaa">
@@ -29,6 +31,3 @@
   <a href="https://www.linkedin.com/in/vitor-caruso-de-souza-64629b367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-   ![Snake animation](https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-snake.svg)
-</div>
