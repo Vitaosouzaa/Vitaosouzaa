@@ -17,7 +17,7 @@ https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vitaosouzaa&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vitaosouzaa&theme=tokyonight" alt="GitHub Activity Graph"/>
 </p>
 </div>
     
