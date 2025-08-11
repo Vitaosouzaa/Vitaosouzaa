@@ -1,31 +1,24 @@
 <h1 align="center">Olá 👋, eu sou o Vitor Souza</h1>
 <h3 align="center">💻 Desenvolvedor apaixonado por tecnologia e inovação</h3>
+<h3 align="center">🎯 Sempre em busca de novos desafios e aprendizados</h3>
+<h3 align="center">🎓 Desenvolvedor em constante evolução </h3>
 
-
-https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-snake.svg
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Vitor!;Desenvolvedor+Fullstack+apaixonado+por+tecnologia;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+</p>
 
 <div>
-### 📈 Minhas estatísticas
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitaosouzaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaosouzaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vitaosouzaa&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vitaosouzaa&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 </div>
     
@@ -39,10 +32,13 @@ https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-
 </div>
  
 <br>
- 
+
+ <h1>### Vamos conversar?</h1>
+
 <div> 
   <a href="https://instagram.com/vitaosouzaa2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vitoosouzaa123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-caruso-de-souza-64629b367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  - 🌐 Portfólio: <a href="https://vitaosouzaa.github.io/" target="_blank"></a>
 </div>
 
