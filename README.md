@@ -6,12 +6,19 @@ https://github.com/Vitaosouzaa/Vitaosouzaa/blob/output/github-contribution-grid-
 
 
 <div>
-   <a href="https://github.com/Vitaosouzaa">
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitaosouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaosouzaa&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<a href="https://github.com/Vitaosouzaa">
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaosouzaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vitaosouzaa&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vitaosouzaa&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 </div>
     
 <div style="display: inline_block"><br>
