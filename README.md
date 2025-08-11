@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Vitor Souza</h1>
+<h3 align="center">💻 Desenvolvedor apaixonado por tecnologia e inovação</h3>
+
+
 
 <div>
    <a href="https://github.com/Vitaosouzaa">
