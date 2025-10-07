@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Vitor Souza</h1>
-<h3 align="center">💻 Desenvolvedor apaixonado por tecnologia e inovação</h3>
+<h3 align="center">💻 Desenvolvedor Front-End com perfil voltado para inovação</h3>
 <h3 align="center">🎯 Sempre em busca de novos desafios e aprendizados</h3>
 <h3 align="center">🎓 Desenvolvedor em constante evolução </h3>
 
