@@ -32,7 +32,7 @@
  
 <br>
 
- <h1>### Vamos conversar?</h1>
+ <h1><strong></strong>Vamos conversar?</strong></h1>
 
 <div> 
   <a href="https://instagram.com/vitaosouzaa2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
