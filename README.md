@@ -47,38 +47,38 @@
 🚧 Chronos PomoTimer
 
 https://github.com/Vitaosouzaa/Chronos-PomoTimer</br>
-<p align="center">Uma aplicação front-end feita com TypeScript, React e Vite.</p>
-<p align="center">Ela consiste em ser um Timer com configurções de tempo de ciclos, histórico e menu principal</p>
-<p align="center">Destaque: Para a arquitetura e o aprofundamento em React.js e TypeScript</p>
+<p align="left">Uma aplicação front-end feita com TypeScript, React e Vite.</p>
+<p align="left">Ela consiste em ser um Timer com configurções de tempo de ciclos, histórico e menu principal</p>
+<p align="left">Destaque: Para a arquitetura e o aprofundamento em React.js e TypeScript</p>
 
 
 🛒 API Formula 1
 
 https://github.com/Vitaosouzaa/Formula_ONE_API</br>
-<p align="center">Uma API simples desenvolvida com Node.js, TypeScript e Fastify, que retorna informações via requisições GET.</p>
-<p align="center">Este projeto tem como objetivo demonstrar o uso do Fastify --- um framework rápido e eficiente para Node.js --- aliado ao poder do TypeScript para garantir tipagem e segurança no código.</p>
-<p align="center">Destaque: Criação de servidor HTTP com Fastify e Uso de TypeScript para tipagem e segurança.</p>
+<p align="left">Uma API simples desenvolvida com Node.js, TypeScript e Fastify, que retorna informações via requisições GET.</p>
+<p align="left">Este projeto tem como objetivo demonstrar o uso do Fastify --- um framework rápido e eficiente para Node.js --- aliado ao poder do TypeScript para garantir tipagem e segurança no código.</p>
+<p align="left">Destaque: Criação de servidor HTTP com Fastify e Uso de TypeScript para tipagem e segurança.</p>
 
 🎙️ API Gerenciador de Podcast
 
 https://github.com/Vitaosouzaa/API-Nodejs-Ts-without_fremework</br>
-<p align="center">Uma API simples de gerenciamento de episódios de podcast, desenvolvida em **Node.js** e **TypeScript**, sem utilização de frameworks.</p>  
-<p align="center">Inspirada em plataformas de streaming (como Netflix), o objetivo é centralizar diferentes episódios de podcasts organizados por categorias.</p>
-<p align="center">Destaque: Listar episódios de podcasts em seções por categoria e Filtrar episódios por nome do podcast.</p> 
+<p align="left">Uma API simples de gerenciamento de episódios de podcast, desenvolvida em **Node.js** e **TypeScript**, sem utilização de frameworks.</p>  
+<p align="left">Inspirada em plataformas de streaming (como Netflix), o objetivo é centralizar diferentes episódios de podcasts organizados por categorias.</p>
+<p align="left">Destaque: Listar episódios de podcasts em seções por categoria e Filtrar episódios por nome do podcast.</p> 
 
 🔎 Git-Find
 
 https://github.com/Vitaosouzaa/Git-find</br>
-<p align="center">O Git-Find é uma aplicação web desenvolvida em React.js que consome a API do GitHub para buscar usuários e repositórios de forma simples, rápida e intuitiva.</p>
-<p align="center">Esse projeto foi criado com o objetivo de praticar o consumo de APIs, gerenciamento de estado no React e boas práticas de desenvolvimento front-end.</p>
-<p align="center">Destaque: Buscar usuários do GitHub pelo nome de usuário e Listar informações básicas do perfil encontrado.</p>
+<p align="left">O Git-Find é uma aplicação web desenvolvida em React.js que consome a API do GitHub para buscar usuários e repositórios de forma simples, rápida e intuitiva.</p>
+<p align="left">Esse projeto foi criado com o objetivo de praticar o consumo de APIs, gerenciamento de estado no React e boas práticas de desenvolvimento front-end.</p>
+<p align="left">Destaque: Buscar usuários do GitHub pelo nome de usuário e Listar informações básicas do perfil encontrado.</p>
 
 🌐 Portfólio Pessoal
 
-<p align="center">https://github.com/Vitaosouzaa/vitaosouzaa.github.io</br>
-<p align="center">Meu portfólio online apresentando meus projetos, experiências e contatos.</p>
-<p align="center">Tecnologias: HTML, CSS, JavaScript.</p>
-<p align="center">Destaque: Design minimalista e performance otimizada.</p>
+https://github.com/Vitaosouzaa/vitaosouzaa.github.io</br>
+<p align="left">Meu portfólio online apresentando meus projetos, experiências e contatos.</p>
+<p align="left">Tecnologias: HTML, CSS, JavaScript.</p>
+<p align="left">Destaque: Design minimalista e performance otimizada.</p>
 
 ---
 
