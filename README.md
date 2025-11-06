@@ -52,15 +52,15 @@ https://github.com/Vitaosouzaa/Chronos-PomoTimer</br>
 <p align="left">Destaque: Para a arquitetura e o aprofundamento em React.js e TypeScript</p>
 
 
-🛒 API Formula 1
+<h3>🛒 API Formula 1</h3>
 
 https://github.com/Vitaosouzaa/Formula_ONE_API</br>
 <p align="left">Uma API simples desenvolvida com Node.js, TypeScript e Fastify, que retorna informações via requisições GET.</p>
 <p align="left">Este projeto tem como objetivo demonstrar o uso do Fastify --- um framework rápido e eficiente para Node.js --- aliado ao poder do TypeScript para garantir tipagem e segurança no código.</p>
 <p align="left">Destaque: Criação de servidor HTTP com Fastify e Uso de TypeScript para tipagem e segurança.</p>
 
-.
-+🎙️ API Gerenciador de Podcast
+
+<h3>🎙️ API Gerenciador de Podcast</h3>
 
 https://github.com/Vitaosouzaa/API-Nodejs-Ts-without_fremework</br>
 <p align="left">Uma API simples de gerenciamento de episódios de podcast, desenvolvida em **Node.js** e **TypeScript**, sem utilização de frameworks.</p>  
@@ -68,7 +68,7 @@ https://github.com/Vitaosouzaa/API-Nodejs-Ts-without_fremework</br>
 <p align="left">Destaque: Listar episódios de podcasts em seções por categoria e Filtrar episódios por nome do podcast.</p> 
 
 
-🔎 Git-Find
+<h3>🔎 Git-Find</h3>
 
 https://github.com/Vitaosouzaa/Git-find</br>
 <p align="left">O Git-Find é uma aplicação web desenvolvida em React.js que consome a API do GitHub para buscar usuários e repositórios de forma simples, rápida e intuitiva.</p>
@@ -76,7 +76,7 @@ https://github.com/Vitaosouzaa/Git-find</br>
 <p align="left">Destaque: Buscar usuários do GitHub pelo nome de usuário e Listar informações básicas do perfil encontrado.</p>
 
 
-🌐 Portfólio Pessoal
+<h3>🌐 Portfólio Pessoal</h3>
 
 https://github.com/Vitaosouzaa/vitaosouzaa.github.io</br>
 <p align="left">Meu portfólio online apresentando meus projetos, experiências e contatos.</p>
