@@ -41,6 +41,47 @@
 
 ---
 
+🌟 Projetos em Destaque
+<p align="center"> <em>Aqui estão alguns dos projetos que mais representam meu estilo de desenvolvimento, foco em performance e atenção aos detalhes.</em> </p>
+
+🚧 Chronos PomoTimer
+
+https://github.com/Vitaosouzaa/Chronos-PomoTimer
+Uma aplicação front-end feita com TypeScript, React e Vite.
+Ela consiste em ser um Timer com configurções de tempo de ciclos, histórico e menu principal
+Destaque: Para a arquitetura e o aprofundamento em React.js e TypeScript
+
+
+🛒 API Formula 1
+
+https://github.com/Vitaosouzaa/Formula_ONE_API
+Uma API simples desenvolvida com Node.js, TypeScript e Fastify, que retorna informações via requisições GET.
+Este projeto tem como objetivo demonstrar o uso do Fastify --- um framework rápido e eficiente para Node.js --- aliado ao poder do TypeScript para garantir tipagem e segurança no código.
+Destaque: Criação de servidor HTTP com Fastify e Uso de TypeScript para tipagem e segurança
+
+🎙️ API Gerenciador de Podcast
+
+https://github.com/Vitaosouzaa/API-Nodejs-Ts-without_fremework
+Uma API simples de gerenciamento de episódios de podcast, desenvolvida em **Node.js** e **TypeScript**, sem utilização de frameworks.  
+Inspirada em plataformas de streaming (como Netflix), o objetivo é centralizar diferentes episódios de podcasts organizados por categorias.
+Destaque: Listar episódios de podcasts em seções por categoria e Filtrar episódios por nome do podcast 
+
+🔎 Git-Find
+
+https://github.com/Vitaosouzaa/Git-find
+O Git-Find é uma aplicação web desenvolvida em React.js que consome a API do GitHub para buscar usuários e repositórios de forma simples, rápida e intuitiva.
+Esse projeto foi criado com o objetivo de praticar o consumo de APIs, gerenciamento de estado no React e boas práticas de desenvolvimento front-end.
+Destaque: Buscar usuários do GitHub pelo nome de usuário e Listar informações básicas do perfil encontrado
+
+🌐 Portfólio Pessoal
+
+https://github.com/Vitaosouzaa/vitaosouzaa.github.io
+Meu portfólio online apresentando meus projetos, experiências e contatos.
+Tecnologias: HTML, CSS, JavaScript
+Destaque: Design minimalista e performance otimizada.
+
+---
+
 ### 🌍 Vamos nos conectar?
 
 <p align="center">
